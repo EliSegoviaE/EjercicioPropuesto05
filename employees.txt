@@ -1,0 +1,11 @@
+Abel,Hernandez,11-08-1989,80111
+Claudia,Avila,12-01-1991,57488
+Benedicto,Blanco,26-02-1984,73491
+Laura,DelaFuente,08-10-1992,161544
+Damián,Escobar,12-01-1992,57488
+Eleonor,Gonzales,29-09-1979,54420
+Federico,Ibarra,23-02-1983,39535
+Renata,Alfonzo,19-03-1973,91159
+Cayetano,Rojas,03-09-1970,166031
+Martina,Diaz,12-05-1976,126564
+Alan,Gomez,10-05-1986,115058
